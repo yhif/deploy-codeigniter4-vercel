@@ -1,0 +1,22 @@
+{
+    "version": 2,
+    "functions": {
+      "api/*.php": {
+        "runtime": "vercel-php@0.7.3"
+      }
+    },
+    "routes": [
+      {
+        "src": "/(css|js|images)/(.*)", 
+        "dest": "public/$1/$2"
+      },
+      {
+        "src": "/(.*)",
+        "dest": "/api/index.php"
+      }
+    ],
+    "env": {
+        "APP_BASE_URL": "your-domain.vercel.app",
+        "CI_ENVIRONMENT": "production"
+    }
+  }
