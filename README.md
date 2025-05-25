@@ -1,5 +1,9 @@
 # CodeIgniter 4 Application Starter
 
+## Deployment Guide
+
+For detailed instructions on how to deploy this application to Vercel, please see our [Deployment Guide](deploy-codeigniter4-vercel.md).
+
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
