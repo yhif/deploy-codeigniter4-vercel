@@ -121,8 +121,7 @@ Solution: Configure proper routes in `vercel.json`.
 
 If you're still facing issues:
 1. Check the [CodeIgniter 4 Documentation](https://codeigniter.com/user_guide/)
-2. Review [Vercel's PHP Runtime](https://vercel.com/docs/runtimes#official-runtimes/php)
-3. Join our [GitHub Discussions](https://github.com/your-repo/discussions)
+2. View gitHub example [deploy-codeigniter4-vercel](https://github.com/yhif/deploy-codeigniter4-vercel) 
 
 ## Conclusion
 
