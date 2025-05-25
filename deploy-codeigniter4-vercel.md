@@ -126,3 +126,4 @@ vercel
 - [CodeIgniter 4 Documentation](https://codeigniter.com/user_guide/)
 - [Vercel Documentation](https://vercel.com/docs)
 - [PHP on Vercel](https://vercel.com/docs/runtimes#official-runtimes/php) 
+- [deploy-codeigniter4-vercel](https://github.com/yhif/deploy-codeigniter4-vercel) 
